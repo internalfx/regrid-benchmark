@@ -1,0 +1,31 @@
+{
+  "name": "regrid-benchmark",
+  "version": "0.0.0",
+  "description": "A benchmarking tool for ReGrid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/internalfx/regrid-benchmark.git"
+  },
+  "author": "Bryan Morris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/internalfx/regrid-benchmark/issues"
+  },
+  "homepage": "https://github.com/internalfx/regrid-benchmark#readme",
+  "dependencies": {
+    "bluebird": "^3.2.2",
+    "bluebird-co": "^2.1.2",
+    "co": "^4.6.0",
+    "colors": "^1.1.2",
+    "lodash": "^4.3.0",
+    "moment": "^2.11.2",
+    "numeral": "^1.5.3",
+    "rethinkdb-regrid": "^0.3.0",
+    "rethinkdbdash": "^2.2.17",
+    "stream-meter": "^1.0.3"
+  }
+}

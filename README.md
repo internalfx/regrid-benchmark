@@ -1,2 +1,2 @@
 # regrid-benchmark
-A benchmarking tool for ReGrid
+Some ugly scripts for simulating workloads on ReGrid.
